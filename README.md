@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQ
 Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
 
+ML by Andrew ng(Coursera)
+https://www.coursera.org/learn/machine-learning
+
 ## Week 3-4
 ML Project Ideas
 https://github.com/NirantK/awesome-project-ideas
