@@ -8,7 +8,7 @@ This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://y
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-## Week 3 
+## Week 3 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
 https://www.coursera.org/courses?languages=en&query=Algorithm%20design%20and%20analysis
@@ -16,11 +16,11 @@ https://www.coursera.org/courses?languages=en&query=Algorithm%20design%20and%20a
 # Month 2
 
 ## Week 1 
-learn python for data science
+#### Learn python for data science
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
-Math of Intelligence
+#### Math of Intelligence
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
-Intro to Tensorflow
+#### Intro to Tensorflow
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
 ## Week 2 
