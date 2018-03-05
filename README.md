@@ -11,7 +11,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 3 
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
-https://www.coursera.org/courses?languages=en&query=Algorithm%20design%20and%20analysis
+https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
 # Month 2
 
