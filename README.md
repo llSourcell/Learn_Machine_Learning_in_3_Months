@@ -27,6 +27,10 @@ https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQ
 ## Week 2 
 Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
+Machine Learning Crash Cours by Google
+https://developers.google.com/machine-learning/crash-course/ml-intro
+Machine Learning Recipes
+https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
 ## Week 3-4
 ML Project Ideas
