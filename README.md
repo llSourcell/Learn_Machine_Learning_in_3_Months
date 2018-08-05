@@ -35,14 +35,17 @@ https://github.com/NirantK/awesome-project-ideas
 # Month 3 (Deep Learning)
 
 ## Week 1 
+Deep Learning by Andrew Ng [(Coursera)](https://www.coursera.org/specializations/deep-learning)
+
+## Week 2 
 Intro to Deep Learning
 https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 
-## Week 2 
+## Week 3
 Deep Learning by Fast.AI
 http://course.fast.ai/
 
-## Week 3-4 
+## Week 4-5 
 Re-implement DL projects from my github
 https://github.com/llSourcell?tab=repositories
 
