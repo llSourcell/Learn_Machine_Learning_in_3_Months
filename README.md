@@ -5,13 +5,14 @@ This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://y
 # Month 1
 
 ## Week 1 Linear Algebra
+https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 3 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
-https://www.coursera.org/courses?languages=en&query=Algorithm%20design%20and%20analysis
+https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
 # Month 2
 
@@ -46,3 +47,9 @@ Re-implement DL projects from my github
 https://github.com/llSourcell?tab=repositories
 
 This is just the beginning, get ready to dive into more
+=======
+---
+
+*Additional Resources:*   
+- People in ML to [follow on Twitter](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information "Quora.com")
+- Join the ["Wizards" Slack channel](http://wizards.herokuapp.com/ "Herokuapp.com")
