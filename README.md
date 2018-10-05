@@ -46,6 +46,8 @@ http://course.fast.ai/
 Re-implement DL projects from my github
 https://github.com/llSourcell?tab=repositories
 
+This is just the beginning, get ready to dive into more
+=======
 ---
 
 *Additional Resources:*   
