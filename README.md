@@ -13,6 +13,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 
 # Month 2
 
@@ -51,3 +52,4 @@ https://github.com/llSourcell?tab=repositories
 *Additional Resources:*   
 - People in ML to [follow on Twitter](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information "Quora.com")
 - Join the ["Wizards" Slack channel](http://wizards.herokuapp.com/ "Herokuapp.com")
+- https://www.coursera.org/learn/multivariate-calculus-machine-learning
