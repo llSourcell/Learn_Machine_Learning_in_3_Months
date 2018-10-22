@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQ
 ## Week 2 
 Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
+Machine Learning (Coursera)
+https://www.coursera.org/learn/machine-learning
 
 ## Week 3-4
 ML Project Ideas
@@ -37,6 +39,8 @@ https://github.com/NirantK/awesome-project-ideas
 ## Week 1 
 Intro to Deep Learning
 https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+Deep Learning - Coursera
+https://www.coursera.org/specializations/deep-learning
 
 ## Week 2 
 Deep Learning by Fast.AI
