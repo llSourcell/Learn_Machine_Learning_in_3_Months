@@ -6,18 +6,19 @@ This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://y
 
 ## Week 1 Linear Algebra
 
-Essence of linear algebra, by 3Blue1Brown
+##### Essence of linear algebra, by 3Blue1Brown
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-Linear Algebra, by MIT OCW (Prof. Gilbert Strang)
+##### Linear Algebra, by MIT OCW (Prof. Gilbert Strang)
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 
 ## Week 2 Calculus
 
-Essence of calculus, by 3Blue1Brown
+#### Essence of calculus, by 3Blue1Brown
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
 ## Week 3 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
